@@ -1,6 +1,6 @@
 # Pixsso
 
-![[Pixsso]([Images/Pixsso - hero.jpg](https://github.com/hal9ai/pixsso/blob/1fa12f1ff37d894cdd6a0776d4bcf45e757e6b32/Images/Pixsso%20-%20hero.jpg))](https://github.com/hal9ai/pixsso/blob/1fa12f1ff37d894cdd6a0776d4bcf45e757e6b32/Images/Pixsso%20-%20hero.jpg)
+![[Pixsso]([Images/Pixsso - hero.jpg](https://github.com/hal9ai/pixsso/blob/a66a24ea3226146af4a9c50274ca91fddd1ede3c/Images/Pixsso%20-%20hero.jpg))](https://github.com/hal9ai/pixsso/blob/a66a24ea3226146af4a9c50274ca91fddd1ede3c/Images/Pixsso%20-%20hero.jpg)
 
 Pixsso is an open-source **eInk frame** that displays AI-generated images. Unlike other eInk displays, Pixsso features built-in buttons that allow you to interact with AI "artists" and shuffle through new images every day. Each AI artist is a multi-agent system that generates unique visuals based on different data inputs, such as real-time weather, news, or pop culture.
 
